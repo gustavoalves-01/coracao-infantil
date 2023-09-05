@@ -7,7 +7,7 @@ export const About = () => {
   return (
     <div className="w-full py-16 md:py-32 px-6 bg-brownPrimary">
       <div className="max-w-5xl w-full mx-auto flex flex-col md:flex-row gap-8">
-        <div className="flex flex-col md:w-1/2 gap-4">
+        <div className="flex flex-col md:w-1/2 gap-4 text-white">
           <h2 className="text-lg md:text-2xl font-semibold text-greenPrimary">
             Quem somos?
           </h2>
