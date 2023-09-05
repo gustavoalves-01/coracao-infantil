@@ -16,13 +16,13 @@ export const Hero = () => {
         </h1>
         <div className="max-w-3xl flex flex-col gap-4">
           <h1 className="text-3xl md:text-5xl font-bold">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque,
-            placeat?
+            Trabalhamos juntos em favor da prevenção e controle de doenças
+            nas nossas crianças.
           </h1>
           <h2 className="md:text-2xl font-light">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat,
-            minima corrupti. Minima iusto velit omnis. Magni voluptatibus
-            eligendi sed natus.
+            O presente projeto tem por finalidade traçar e mapear o perfil
+            epidemiológico das crianças entre 9 a 11 anos do município de Mauá a
+            fim de compreender a prevalência de doenças crônicas nessa população
           </h2>
           <a
             href="#form"

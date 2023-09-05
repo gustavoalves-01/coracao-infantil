@@ -12,22 +12,21 @@ export const About = () => {
             Quem somos?
           </h2>
           <p className="text-sm md:text-base font-light">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident,
-            rerum! Quasi ipsa, obcaecati exercitationem aliquam perferendis
-            minus harum, laudantium quisquam dolorem eligendi, suscipit nostrum
-            voluptatem porro quos nesciunt ipsam accusamus.
+            O presente projeto tem por finalidade traçar e mapear o perfil
+            epidemiológico das crianças entre 9 a 11 anos do município de Mauá a
+            fim de compreender a prevalência de doenças crônicas nessa
+            população, haja visto que a cidade não possui atualmente nenhum
+            projeto de rastreamento com tal objetivo.
           </p>
           <p className="text-sm md:text-base font-light">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
-            quo laudantium eum exercitationem deserunt accusamus quidem
-            laboriosam earum nesciunt doloremque. Quam nobis nam veniam esse id
-            iste dolores quae commodi!
+            O mapeamento do perfil epidemiológico das crianças de Mauá permitirá
+            o desenvolvimento de ações de prevenção e controle de doenças.
           </p>
           <p className="text-sm md:text-base font-light">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-            fugiat harum atque porro, officiis veritatis tenetur aspernatur quo
-            delectus facere ab voluptate obcaecati eos, quia hic at. Illum,
-            consequatur! Modi.
+            Será disponibilizado aos alunos um formulário que servirá como
+            método de análise da saúde do público infantil do município,
+            ressaltamos que não será obtido o nome dos menores nem de seus
+            responsáveis.
           </p>
         </div>
         <Image
